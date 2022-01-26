@@ -1,0 +1,41 @@
+.top-container { 
+    background-color: rgb(31 44 70);
+    top:0;
+    left:0;
+    right: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.video-container{
+    height: 856px;
+    justify-content: center;
+    align-items: center;
+}
+.video-container img{
+    width: 10%;
+    height: 20%; 
+    justify-content: center;
+    align-items: center;
+}
+
+.mission-container {
+    width:100%;
+    height: 612px;
+    background-image:url("https://static.wixstatic.com/media/6afa43_1e53462b6f0040038f957fcda94347c9~mv2.jpg/v1/fill/w_1041,h_379,al_c,q_85/6afa43_1e53462b6f0040038f957fcda94347c9~mv2.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    color: white;
+    text-align: center;
+
+}
+
+.mission-container h1{
+    font-size: 50px;
+    display:flex;
+    justify-content: center;
+
+}
